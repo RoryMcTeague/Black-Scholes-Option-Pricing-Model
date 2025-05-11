@@ -51,4 +51,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Author
 
 Rory McTeague  
-[Github Profile](https://github.com/RoryMcTeague/)
+
+[Github](https://github.com/RoryMcTeague/)
+
+[LinkedIn](https://www.linkedin.com/in/rory-mcteague-b78637161/)
